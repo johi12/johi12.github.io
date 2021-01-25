@@ -40,11 +40,12 @@ Here are some technolgies that I've gotten to work with at Aditro,
 - JavaScript
 - ASP.NET Core
 
-## Previous
+## Previously
 
 
-
-2018 - 2019 __Coronation, IT Consultant__
+### Coronation 
+**IT Consultant**
+2018 - 2019 
 
 During my time at Coronation I had the following clients
 
@@ -67,7 +68,8 @@ Cartina is a consulting company helping their clients with entering the age of d
 
 To make their bonus system more accessible to their employees Innovation decided to make it more fun. They made a app that presented the employees with a series of missions that the employee received rewards or points that they could use for a reward of their choosing. I was tasked with making a Web API in ASP.NET Core 2 and implementing the database for which we used MongoDB, the front end was written in React Native. I was also responsible for writing unit test and performing integration tests.
 
-2012-2018 __Data Ductus__ 
+2012-2018 
+__Data Ductus__ 
 
 I started as a Service Desk Technician but spent most of my time at Data Ductus as consultant specializing in applications delivery with Application Virtualization, Citrix and Microsoft Installer. This also include third line support, administration, implementing new applications, migrating applications, organizing user tests during larger migrations/upgrades etc.
 
