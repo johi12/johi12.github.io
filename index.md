@@ -40,7 +40,7 @@ Here are some technolgies that I've gotten to work with at Aditro,
 - JavaScript
 - ASP.NET Core
 
-## Previous Employment
+## Previous
 
 `2018-2019`
 __Coronation, IT Consultant__
