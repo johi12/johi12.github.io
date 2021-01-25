@@ -1,53 +1,84 @@
-Skip to content
-Pull requests
-Issues
-Codespaces
-Marketplace
-Explore
-@johi12
-blmoore /
-md-cv
-
-2
-94
-
-    122
-
-Code
-Issues 2
-Pull requests
-Actions
-Projects
-Wiki
-Security
-
-    Insights
-
-md-cv/media/cv-screen.css
-@blmoore
-blmoore startover -- jekyll-based cv
-Latest commit 56ba978 on Mar 27, 2015
-History
-1 contributor
-210 lines (183 sloc) 3.5 KB
-/* http://meyerweb.com/eric/tools/css/reset/
-   v2.0 | 20110126
-   License: none (public domain)
-*/
-
-html, body, div, span, applet, object, iframe,
-h1, h2, h3, h4, h5, h6, p, blockquote, pre,
-a, abbr, acronym, address, big, cite, code,
-del, dfn, em, img, ins, kbd, q, s, samp,
-small, strike, strong, sub, sup, tt, var,
-b, u, i, center,
-dl, dt, dd, ol, ul, li,
-fieldset, form, label, legend,
-table, caption, tbody, tfoot, thead, tr, th, td,
-article, aside, canvas, details, embed,
-figure, figcaption, footer, header, hgroup,
-menu, nav, output, ruby, section, summary,
-time, mark, audio, video {
+html,
+body,
+div,
+span,
+applet,
+object,
+iframe,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+p,
+blockquote,
+pre,
+a,
+abbr,
+acronym,
+address,
+big,
+cite,
+code,
+del,
+dfn,
+em,
+img,
+ins,
+kbd,
+q,
+s,
+samp,
+small,
+strike,
+strong,
+sub,
+sup,
+tt,
+var,
+b,
+u,
+i,
+center,
+dl,
+dt,
+dd,
+ol,
+ul,
+li,
+fieldset,
+form,
+label,
+legend,
+table,
+caption,
+tbody,
+tfoot,
+thead,
+tr,
+th,
+td,
+article,
+aside,
+canvas,
+details,
+embed,
+figure,
+figcaption,
+footer,
+header,
+hgroup,
+menu,
+nav,
+output,
+ruby,
+section,
+summary,
+time,
+mark,
+audio,
+video {
   margin: 0;
   padding: 0;
   border: 0;
@@ -133,7 +164,6 @@ h1,
 h2,
 h3,
 h4 {
-  font-weight: 400;
   font-family: "Inter", sans-serif;
   width: 65%;
 }
@@ -146,7 +176,7 @@ h1 {
   position: relative;
   margin-top: 2em;
   left: 25%;
-  text-shadow: 1px 1px #fff, 1px 2px #ccc;
+  font-weight: 900;
 }
 
 h1 + p {
