@@ -169,10 +169,10 @@ h4 {
 }
 
 h1 {
-  color: #fd9544;
+  color: #000000;
   text-align: left;
   font-size: 3em;
-  line-height: 1em;
+  line-height: 3em;
   position: relative;
   margin-top: 2em;
   left: 25%;
@@ -180,9 +180,7 @@ h1 {
 }
 
 h1 + p {
-  /*subtitle*/
-  color: #1d49a0;
-  font-style: italic;
+  color: #000000;
   font-size: 110%;
   line-height: 2em;
   margin-top: 0.5em;
@@ -190,8 +188,8 @@ h1 + p {
 }
 
 h2 {
-  font-size: 1.1em;
-  color: #1d49a0;
+  font-size: 1.5em;
+  color: #000000;
   margin-top: 2em;
   position: relative;
   top: 1.4em;
@@ -200,7 +198,7 @@ h2 {
 }
 
 h3 {
-  color: #f07415;
+  color: #000000;
   font-size: 1em;
   line-height: 2em;
   position: relative;
@@ -214,19 +212,19 @@ a {
 }
 
 a:hover {
-  color: #39f;
+  color: #ffffff;
 }
 
 #contact {
   margin-top: 0em;
   position: relative;
   margin-left: 25%;
-  color: #aaa;
+  color: #000000;
   font-family: "Inter", sans-serif;
-  font-size: 80%;
+  font-size: 90%;
 }
 
-#webaddress a {
+#contact a {
   text-decoration: none;
 }
 
