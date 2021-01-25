@@ -1,5 +1,5 @@
 ---
-layout: resume
+layout: cv
 title: Resume of Jonas Hinderson
 ---
 
