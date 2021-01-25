@@ -161,7 +161,6 @@ h1 + p {
 
 h2 {
   font-size: 1.1em;
-  /* color: #a00; */
   color: #1d49a0;
   margin-top: 2em;
   position: relative;
@@ -182,7 +181,6 @@ h3 {
 
 a {
   color: inherit;
-  /*text-decoration:none*/
 }
 
 a:hover {
@@ -194,7 +192,7 @@ a:hover {
   position: relative;
   margin-left: 25%;
   color: #aaa;
-  font-family: Menlo, monospace, sans-serif;
+  font-family: "Inter", sans-serif;
   font-size: 80%;
 }
 
@@ -203,7 +201,6 @@ a:hover {
 }
 
 em {
-  /*font-weight: bold; */
   font-style: italic;
 }
 
