@@ -48,7 +48,7 @@ Here are some technolgies that I've gotten to work with at Aditro,
 
 During my time at Coronation I had the following clients
 
-**JM - Application Coordinator**
+*JM - Application Coordinator*
 
 In my role as a application coordinator I had several responsibilities including, but not limited to,
 
@@ -59,11 +59,11 @@ In my role as a application coordinator I had several responsibilities including
 • Reviewing the current application portfolio to minimize cost
 • Performs application troubleshooting and works with vendor for issue resolution.
 
-**Cartina AB, Wordpress Developer**
+*Cartina AB, Wordpress Developer*
 
 Cartina is a consulting company helping their clients with entering the age of digitalization. They noticed after reviewing the behavior of their website visitors that many where interested in their services but wanted a quick meeting. I developed a WordPress plugin which allowed potential customers to book a quick phone meeting
 
-**Innovation**
+*Innovation*
 
 To make their bonus system more accessible to their employees Innovation decided to make it more fun. They made a app that presented the employees with a series of missions that the employee received rewards or points that they could use for a reward of their choosing. I was tasked with making a Web API in ASP.NET Core 2 and implementing the database for which we used MongoDB, the front end was written in React Native. I was also responsible for writing unit test and performing integration tests.
 
