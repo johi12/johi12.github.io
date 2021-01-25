@@ -185,6 +185,7 @@ h1 + p {
   line-height: 2em;
   margin-top: 0.5em;
   margin-bottom: 0em !important;
+  font-weight: 700;
 }
 
 h2 {
@@ -195,6 +196,7 @@ h2 {
   top: 1.4em;
   text-align: right;
   width: 15%;
+  font-weight: 600;
 }
 
 h3 {
