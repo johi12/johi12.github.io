@@ -219,9 +219,9 @@ a:hover {
 
 code {
 	font: normal normal;
-	font-size: 90%;
+	font-size: 100%;
 	font-family: "Inter", sans-serif;
-	color: #aaa;
+	color: #000000;
 }
 
 p code {
