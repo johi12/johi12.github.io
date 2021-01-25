@@ -43,9 +43,7 @@ Here are some technolgies that I've gotten to work with at Aditro,
 ## Previous
 
 `2018-2019`
-__Coronation, IT Consultant__
-
-During my time at Coronation I had the following clients
+__Coronation, IT Consultant__ During my time at Coronation I had the following clients
 
 **JM - Application Coordinator**
 
