@@ -25,7 +25,7 @@ My main responsibilities has been implementing and maintaining our monitoring so
 
 Other then monitoring my days can consist of a variety of tasks or projects such as creating a release pipeline in Azure DevOps, writing shell scripts, helping our HR Consultants with customer support, creating a self-service portal for creating new customer tenants and much more. It’s really a job where no day is the same.
 
-Here are some technolgies I've gotten to work with at Aditro,
+Here are some technolgies that I've gotten to work with at Aditro,
 
 - Prometheus
 - Grafana
@@ -43,13 +43,13 @@ Here are some technolgies I've gotten to work with at Aditro,
 ## Previous Employment
 
 `2018-2019`
-**Coronation**, IT Consultant
+#### Coronation**, IT Consultant
 
 During my time at Coronation I had the following clients
 
-#### JM - Application Coordinator
+**JM - Application Coordinator**
 
-In my role as application coordinator I had several responsibilities including, but not limited to,
+In my role as a application coordinator I had several responsibilities including, but not limited to,
 
 • Handling 3rd line help desk tickets
 • Prioritizing and communicating system updates and changes
@@ -58,11 +58,11 @@ In my role as application coordinator I had several responsibilities including, 
 • Reviewing the current application portfolio to minimize cost
 • Performs application troubleshooting and works with vendor for issue resolution.
 
-#### Cartina AB, Wordpress Developer
+**Cartina AB, Wordpress Developer**
 
 Cartina is a consulting company helping their clients with entering the age of digitalization. They noticed after reviewing the behavior of their website visitors that many where interested in their services but wanted a quick meeting. I developed a WordPress plugin which allowed potential customers to book a quick phone meeting
 
-#### Innovation
+**Innovation**
 
 To make their bonus system more accessible to their employees Innovation decided to make it more fun. They made a app that presented the employees with a series of missions that the employee received rewards or points that they could use for a reward of their choosing. I was tasked with making a Web API in ASP.NET Core 2 and implementing the database for which we used MongoDB, the front end was written in React Native. I was also responsible for writing unit test and performing integration tests.
 
